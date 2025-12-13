@@ -1,0 +1,5 @@
+public class decisiion2 {
+    public static void main(String[] args) {
+        
+    }
+}
